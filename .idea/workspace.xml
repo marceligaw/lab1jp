@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea3759f-4cc0-4aec-9c97-4a9f9997e38b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1jp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad1/Zad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad3/Zad3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad5/Person.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zad5/Zad5.java" afterDir="false" />
-    </list>
+    <list default="true" id="dea3759f-4cc0-4aec-9c97-4a9f9997e38b" name="Changes" comment="Collections tasks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/marceligaw/lab1jp.git",
+    "accountId": "64b80276-a636-495d-a57b-dd80a3a3ff4a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -134,6 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729769793650</updated>
     </task>
+    <task id="LOCAL-00001" summary="Collections tasks">
+      <option name="closed" value="true" />
+      <created>1730937968009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730937968009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collections tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections tasks" />
   </component>
 </project>
