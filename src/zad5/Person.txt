@@ -1,0 +1,4 @@
+Anna,20
+Marek,40
+Tomasz,19
+Marcel,42
